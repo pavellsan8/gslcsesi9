@@ -1,0 +1,23 @@
+.home-page {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.title-home {
+    font-weight: 900;
+}
+
+.subtitle-home {
+    font-size: larger;
+}
+
+.btn-start {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1rem;
+    margin: 1rem;
+}
+
+.title-product {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 2rem;
+}
